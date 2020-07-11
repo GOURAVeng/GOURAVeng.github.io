@@ -1,2 +1,2 @@
-# GOURAVeng.github.io
+# gouraveng.github.io
 My portfolio
